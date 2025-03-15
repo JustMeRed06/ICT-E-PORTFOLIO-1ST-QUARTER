@@ -100,5 +100,6 @@ This is because I need to memorize a lot of values, attributes, etc. <br/>
 But with the help of Ms. Uminga and <a href="w3schools.com"> w3schools.com </a>, I got better at coding.<br/> 
 This can help me make websites if ever I want to be a website designer. </p>
   <a href="https://justmered06.github.io/ICT-E-PORTFOLIO-2ND-QUARTER/"> PAGE 2 </a>
+  <a href="https://justmered06.github.io/ICT-E-PORTFOLIO-4TH-QUARTER/"> PAGE 3 </a>
 </body>
 </html>
